@@ -1,2 +1,2 @@
 # bootcamp_codegirls
-Santander Bootcamp 2022
+Repositório criado para armazenamento dos códigos gerados no Santander Bootcamp 2022.
