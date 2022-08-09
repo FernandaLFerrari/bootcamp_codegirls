@@ -1,4 +1,4 @@
-package Bootcamp_CodeGirls.projects_java.Model;
+package projects_java.src;
 
 /**
  * Exercício 1 e 2
@@ -12,7 +12,7 @@ package Bootcamp_CodeGirls.projects_java.Model;
 
  public class main {
 
-    public static void main(String[] args) {
+    public static void Main(String[] args) {
 
         int quantidadeProduto = 50;
         int QuantidadeProduto = 10; // não é uma boa pratica
@@ -29,6 +29,7 @@ package Bootcamp_CodeGirls.projects_java.Model;
         char c1 = 'a'; // somente uma letra e com aspas simples
         String st1 = "Aqui é uma string!";
         boolean bo1 = true;
+        
 
         System.out.println(quantidadeProduto);
         System.out.println(QuantidadeProduto);
